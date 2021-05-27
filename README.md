@@ -1,1 +1,2 @@
-# Project-c18
+# colourful-terx
+a colourfu trex runner game
